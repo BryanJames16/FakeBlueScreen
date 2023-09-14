@@ -11,3 +11,6 @@ can also be terminated through system restart and forced shutdown. Please
 use with caution.
 
 You may need Java Runtime Environment to run these files.
+
+## Contributing
+All contributions are welcome and appreciated. Just create a feature branch and create a pull request. After review, it will then be merged to dev branch, then to main branch.
